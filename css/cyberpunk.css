@@ -10795,6 +10795,7 @@ article.media .image img {
   height: 100%;
 }
 article.media .title {
+  font-weight: bold;
   margin-bottom: 0.25em;
 }
 article.media .media-content {
